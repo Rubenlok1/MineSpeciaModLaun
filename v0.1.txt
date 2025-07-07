@@ -1,30 +1,36 @@
-En esta versión se han modificado algunos aspectos visuales, Tales como unos **Vibrant Visuals** *(No oficiales)* con el estilo que mojang presento. 
-También hay cambios en ciertos menús y se esperan mas a futuro. 
-Hay muchos resourcepacks y no se recomiendan añadir o modificar nada debido a que se pueden corromper el juego fácilmente o incluso parar de funcionar correctamente, lo mismo con los mods. 
-Se esta intentando un sistema de mensajes para cuando hayan nuevas versiones de este modpack. 
-A continuación estará el reporte de la versión 1.21.4:
+- En esta versión se han modificado algunos aspectos visuales, Tales como unos **Vibrant Visuals** *(No oficiales)* con el estilo que mojang presento. 
+- También hay cambios en ciertos menús y se esperan mas a futuro. 
+- Hay muchos resourcepacks y no se recomiendan añadir o modificar nada debido a que se pueden corromper el juego fácilmente o incluso parar de funcionar correctamente, lo mismo con los mods. 
+- Se esta intentando un sistema de mensajes para cuando hayan nuevas versiones de este modpack. 
+### A continuación estará el reporte de la versión 1.21.4:
+---
 
 %#1E90FF%**Minecraft 1.21.4 – “The Garden Awakens”**%#% (lanzada el 3 de diciembre de 2024)
 
 %#28A745%**Nuevo bioma: Jardín Pálido**%#%
-Un paisaje sombrío que surge como variante del Bosque Oscuro, con robles y musgo de tono desaturado, iluminación tenue y sonidos ambientales inquietantes.
+
+> Un paisaje sombrío que surge como variante del Bosque Oscuro, con robles y musgo de tono desaturado, iluminación tenue y sonidos ambientales inquietantes.
 
 %#FF6600%**Nueva flor: Florojos**%#%
+
 - Se abren solo por la noche y emiten un brillo sutil.
 - Las abejas que intentan polinizarlas reciben el efecto de *envenenamiento*.
 - Permiten fabricar tintes gris y naranja.
 
 %#8A2BE2%**Nuevos bloques y materiales**%#%
+
 - **Madera de roble pálido**: troncos, tablones, escaleras y puertas con un acabado único.
 - **Resina**: bloques, ladrillos y ladrillos cincelados, resistentes a explosiones.
 - **Musgo pálido**: crece naturalmente en el Jardín Pálido y se puede cultivar con harina de hueso.
 
 %#DC143C%**Nuevo mob: Creaking**%#%
+
 - Criatura hostil que se activa cuando no la miras.
 - Protegida por el **Corazón Crujiente**, que solo se destruye con pala y *Silk Touch*.
 - Al morir, suelta grumos de resina.
 
 %#117A65%**Cambios de jugabilidad y correcciones**%#%
+
 - Los cofres de Ender sueltan obsidiana si se rompen con herramienta inadecuada.
 - Los Illagers huyen al detectar un Creaking cercano.
 - Añadido soporte de idioma para Popoloca.
