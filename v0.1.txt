@@ -2,10 +2,11 @@
 - También hay cambios en ciertos menús y se esperan mas a futuro. 
 - Hay muchos resourcepacks y no se recomiendan añadir o modificar nada debido a que se pueden corromper el juego fácilmente o incluso parar de funcionar correctamente, lo mismo con los mods. 
 - Se esta intentando un sistema de mensajes para cuando hayan nuevas versiones de este modpack. 
-# A continuación estará el reporte de la versión 1.21.4:
+
+A continuación estará el reporte de la versión 1.21.4:
 ---
 
-%#1E90FF%### **Minecraft 1.21.4 – “The Garden Awakens”**%#% 
+%#1E90FF%## **Minecraft 1.21.4 – ´The Garden Awakens`**%#% 
 (lanzada el 3 de diciembre de 2024)
 
 %#28A745%**Nuevo bioma: Jardín Pálido**%#%
