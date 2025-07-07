@@ -6,7 +6,7 @@
 A continuación estará el reporte de la versión 1.21.4:
 ---
 
-%#1E90FF%## **Minecraft 1.21.4 – ´The Garden Awakens`**%#% 
+## %#1E90FF%**Minecraft 1.21.4 – ´The Garden Awakens`**%#% 
 (lanzada el 3 de diciembre de 2024)
 
 %#28A745%**Nuevo bioma: Jardín Pálido**%#%
