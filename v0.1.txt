@@ -26,4 +26,4 @@ Criatura hostil que se activa cuando no la miras. Protegida por el **Corazón Cr
 
 Para más detalles visita el [Java Edition 1.21.4 Wiki](https://minecraft.fandom.com/wiki/Java_Edition_1.21.4).
 
-Damos las gracias a [aternos.org/](https://aternos.gmbh/en/) por proporcionarnos el servidor de forma gratuita.
+Damos las gracias a [aternos.org](https://aternos.gmbh/en/) por proporcionarnos el servidor de forma gratuita.
